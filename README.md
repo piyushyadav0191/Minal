@@ -8,7 +8,7 @@
 # for python
 ### run "python manage.py runserver" on terminal
 
-#for python3
+# for python3
 ### run "python3 manage.py runserver" on terminal
 
 # Demo
